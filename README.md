@@ -1,3 +1,6 @@
+Patch originally released on 09/27/2026
+added to my github on 11/01/2026
+
 DOWNTOWN NEKKETSU MONOGATARI
 English Translation - Redump Edition
 Translation by TruMisery | AI-assisted project
